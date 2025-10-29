@@ -46,6 +46,6 @@ def handle_message(message):
         bot.send_message(message.chat.id, f"Ты написал: {message.text}")
 
 print("🤖 Бот запущен с кнопками...")
-bot.polling()
-pyTelegramBotAPI
+bot.polling
+
 pyTelegramBotAPI
