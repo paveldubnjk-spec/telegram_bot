@@ -48,3 +48,4 @@ def handle_message(message):
 print("🤖 Бот запущен с кнопками...")
 bot.polling()
 pyTelegramBotAPI
+pyTelegramBotAPI
